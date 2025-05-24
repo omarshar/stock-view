@@ -1,3 +1,5 @@
+'use client';
+
 import { ReactNode } from 'react';
 import { LocalizationProvider } from '@/lib/localization';
 import { ThemeProvider } from 'next-themes';
